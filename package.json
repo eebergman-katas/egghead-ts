@@ -1,0 +1,12 @@
+{
+  "name": "egghead",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/eebergman-katas/egghead-ts.git",
+  "author": "Erin Bergman",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^3.0.2",
+    "typescript": "^2.2.2"
+  }
+}
